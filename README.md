@@ -11,6 +11,8 @@
 - A large thin lace.
 - 10 simple paper cards with numbers from 1 to 10.
 - A PHP app to help you find the shortest route through simple trial and error, random calculations.
+- A png A4 file for printing.
+- A raw A4 svg file for editing.
 
 ## How to Play
 ### 1 player
