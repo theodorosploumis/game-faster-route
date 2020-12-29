@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="board.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 297 210"
+   height="210mm"
+   width="297mm"
+   inkscape:export-filename="/home/tpl/Desktop/game-ten-points/board.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="68"
+     inkscape:window-height="836"
+     inkscape:window-width="1532"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="377.14286"
+     inkscape:cx="499.47807"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:pagecheckerboard="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid812" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(0,-87)">
+    <circle
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332"
+       id="path4517"
+       cx="55.5625"
+       cy="119.72917"
+       r="2.6458333" />
+    <circle
+       r="2.6458333"
+       cy="146.18753"
+       cx="108.47914"
+       id="circle4519"
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332" />
+    <circle
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332"
+       id="circle4521"
+       cx="171.97919"
+       cy="119.72919"
+       r="2.6458333" />
+    <circle
+       r="2.6458333"
+       cy="177.93756"
+       cx="171.97919"
+       id="circle4523"
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332" />
+    <circle
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332"
+       id="circle4525"
+       cx="240.77092"
+       cy="162.06255"
+       r="2.6458333" />
+    <circle
+       r="2.6458333"
+       cy="162.21373"
+       cx="209.02089"
+       id="circle4527"
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332" />
+    <circle
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332"
+       id="circle4529"
+       cx="171.97919"
+       cy="262.60428"
+       r="2.6458333" />
+    <circle
+       r="2.6458333"
+       cy="262.60428"
+       cx="18.520823"
+       id="circle4531"
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332" />
+    <circle
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332"
+       id="circle4533"
+       cx="82.020821"
+       cy="199.10423"
+       r="2.6458333" />
+    <circle
+       r="2.6458333"
+       cy="199.10423"
+       cx="224.8959"
+       id="circle4535"
+       style="fill:#ff0012;fill-opacity:1;stroke-width:0.26458332" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4539"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,17.462505,91.762503)"><flowRegion
+         id="flowRegion4541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"><rect
+           id="rect4543"
+           width="20"
+           height="60"
+           x="600"
+           y="333.70081"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '" /></flowRegion><flowPara
+         id="flowPara4545"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">1</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,42.862509,65.304171)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4553"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+         id="flowRegion4549"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+           y="333.70081"
+           x="600"
+           height="60"
+           width="20"
+           id="rect4547" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="flowPara4551">2</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,16.933341,18.737499)"><flowRegion
+         id="flowRegion4557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"><rect
+           id="rect4555"
+           width="20"
+           height="60"
+           x="600"
+           y="333.70081"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '" /></flowRegion><flowPara
+         id="flowPara4559"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">3</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-48.154162,44.66667)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4569"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+         id="flowRegion4565"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+           y="333.70081"
+           x="600"
+           height="60"
+           width="20"
+           id="rect4563" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="flowPara4567">4</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4577"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-115.35833,25.0875)"><flowRegion
+         id="flowRegion4573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"><rect
+           id="rect4571"
+           width="20"
+           height="60"
+           x="600"
+           y="333.70081"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '" /></flowRegion><flowPara
+         id="flowPara4575"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">5</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-136.52501,176.95839)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4585"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+         id="flowRegion4581"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+           y="333.70081"
+           x="600"
+           height="60"
+           width="20"
+           id="rect4579" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="flowPara4583">6</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4593"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,17.99168,176.95839)"><flowRegion
+         id="flowRegion4589"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"><rect
+           id="rect4587"
+           width="20"
+           height="60"
+           x="600"
+           y="333.70081"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '" /></flowRegion><flowPara
+         id="flowPara4591"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">7</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-77.787491,115.57503)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4601"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+         id="flowRegion4597"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+           y="333.70081"
+           x="600"
+           height="60"
+           width="20"
+           id="rect4595" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="flowPara4599">8</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4609"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,70.379183,115.57503)"><flowRegion
+         id="flowRegion4605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"><rect
+           id="rect4603"
+           width="20"
+           height="60"
+           x="600"
+           y="333.70081"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '" /></flowRegion><flowPara
+         id="flowPara4607"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">9</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,88.370852,74.829186)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4617"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+         id="flowRegion4613"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+           y="333.70081"
+           x="600"
+           height="45.999931"
+           width="45.999939"
+           id="rect4611" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="flowPara4615">10</flowPara></flowRoot>  </g>
+</svg>
