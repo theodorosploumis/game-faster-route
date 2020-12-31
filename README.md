@@ -16,6 +16,9 @@
 - A png A4 file for printing.
 - A raw A4 svg file for editing.
 
+![](assets/board.pdf)
+![](assets/cards.pdf)
+
 ## How to Play
 ### 1 player
 - Shuffle the cards and put them in a list without knowing their numbers.
@@ -28,8 +31,6 @@
 - For more than 1 player each player plays its turn and adds a mark (eg a small colored clip on the lace) at the end of the route.
 - The player also writes down the order of her/his cards on a paper.
 - The player to find the shortest route (lace comparison) wins the game.
-
-![](board.png)
 
 
 ## Licence
