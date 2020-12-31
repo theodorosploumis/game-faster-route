@@ -268,10 +268,10 @@ if (!isset($list)) {
         $list_options[$option] = $option;
     }
     if (!isset($list_options[$start])) {
-        print_r("<p style='width:300px;border:1px solid;color:red;padding:10px;'><b>Please include the start value ".$start." on the list.</b></p>");
+        print_r("<p style='width:380px;border:1px solid;color:red;padding:10px;'><b>Please include the start value ".$start." on the list.</b></p>");
     }
     if (!isset($list_options[$end])) {
-        print_r("<p style='width:300px;border:1px solid;color:red;padding:10px;'><b>Please include the end value ".$end." on the list.</b></p>");
+        print_r("<p style='width:380px;border:1px solid;color:red;padding:10px;'><b>Please include the end value ".$end." on the list.</b></p>");
     }
 }
 
