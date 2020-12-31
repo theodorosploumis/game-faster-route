@@ -319,13 +319,20 @@ select option {
 li {
   margin-bottom: 10px;
 }
+
+.logo {
+  height: 200px;
+  with: auto;
+  margin-bottom: 20px;
+}
 ";
 print "</style>";
 print "</head>";
 print "<body>";
 
 // Print header
-print("<h1>The Faster Route Game</h1>");
+// print "<h1>The Faster Route Game</h1>";
+print "<img class='logo' src='logo.svg' alt='logo' />";
 print "<hr>";
 
 $about = "";

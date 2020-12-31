@@ -1,5 +1,7 @@
 # The Faster Route Game
 
+![](logo.svg)
+
 ## About
 - A TSP board game.
 - Simply, get the fastest route from one point to the other with some arrivals to other points.
