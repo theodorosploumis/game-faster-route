@@ -327,6 +327,7 @@ li {
 }
 ";
 print "</style>";
+print "<title>The Faster Route Game</title>";
 print "</head>";
 print "<body>";
 
