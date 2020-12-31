@@ -291,6 +291,11 @@ body {
   font-family: sans-serif;
 }
 
+section {
+  max-width: 800px;
+  margin: auto;
+}
+
 select {
   height: 36px;
   margin-left: 10px;
@@ -320,28 +325,37 @@ li {
   margin-bottom: 10px;
 }
 
+.link-logo {
+  display: block;
+  text-align: center;
+}
+
 .logo {
   height: 200px;
   with: auto;
   margin-bottom: 20px;
 }
+
+h3 span {
+  font-weight: normal;
+}
 ";
 print "</style>";
 print "<title>The Faster Route Game</title>";
 print "</head>";
-print "<body>";
+print "<body><section>";
 
 // Print header
 // print "<h1>The Faster Route Game</h1>";
-print "<a href='./'><img class='assets' src='assets/logo.svg' alt='logo' /></a>";
+print "<a href='./'><img class='logo' src='assets/logo.svg' alt='logo' /></a>";
 print "<hr>";
 
 $about = "";
 
 // Print links
 print "<ul>";
-print "<li>Get Board <a href='assets/board.png' target='_blank'>png</a>, <a href='assets/board.svg' target='_blank'>svg</a>, <a href='assets/board.pdf' target='_blank'>pdf</a></li>";
 print "<li><a href='https://github.com/theodorosploumis/game-faster-route/blob/master/README.md' target='_blank'>About/Rules</a></li>";
+print "<li>Get Board <a href='assets/board.png' target='_blank'>png</a>, <a href='assets/board.svg' target='_blank'>svg</a>, <a href='assets/board.pdf' target='_blank'>pdf</a></li>";
 print "</ul>";
 
 print "<hr>";
@@ -383,9 +397,9 @@ print "<hr>";
 // Single Calculation
 $get_min1 = OptimizedGetMinDistance($start, $end, $list, $loops);
 
-print "<h3>Options: Go from " . $start . " to " . $end . " through points " . ArrayToString($list_options) . "</h3>";
-print "<h3>Fastest route: " . $get_min1['route'] . "</h3>";
-print "<h3>Total distance: " . $get_min1['distance'] . "</h3>";
+print "<h3>Options: <span>Go from " . $start . " to " . $end . " through points " . ArrayToString($list_options) . "</span></h3>";
+print "<h3>Fastest route: <span>" . $get_min1['route'] . "</span></h3>";
+print "<h3>Total distance: <span>" . $get_min1['distance'] . "</span></h3>";
 print "<h3>Analysis by points:</h3>";
 print DisplayRouteWithDistances($get_min1['route']);
 
@@ -400,4 +414,4 @@ print DisplayRouteWithDistances($get_min1['route']);
 //    }
 //}
 
-print "</body></html>";
+print "</section></body></html>";
