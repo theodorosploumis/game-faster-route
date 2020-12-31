@@ -279,9 +279,65 @@ if (!isset($loops)) {
     $loops = 10000;
 }
 
+
+print "<html>";
+print "<head>";
+print "<style>";
+print "
+body {
+  background: whitesmoke;
+  padding: 20px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+select {
+  height: 36px;
+  margin-left: 10px;
+  overflow: hidden;
+}
+
+select option {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  margin: 2px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.button {
+  background: #006fff;
+  border: 2px solid #cacaca;
+  padding: 10px 20px;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+";
+print "</style>";
+print "</head>";
+print "<body>";
+
 // Print header
 print("<h1>The Faster Route Game</h1>");
 print "<hr>";
+
+$about = "";
+
+// Print links
+print "<ul>";
+print "<li>Get Board <a href='board.png' target='_blank'>png</a>, <a href='board.svg' target='_blank'>svg</a></li>";
+print "<li><a href='https://github.com/theodorosploumis/game-faster-route/blob/master/README.md' target='_blank'>About/Rules</a></li>";
+print "</ul>";
+
+print "<hr>";
+print "<br><br>";
 
 // Generate Form
 $form = "<form>";
@@ -306,10 +362,10 @@ foreach ($all_values as $k => $v) {
 $form .= "</select>";
 $form .= "<br><br>";
 
-$form .= '<label for="loops">Loops (10k to 1m):</label> ';
+$form .= '<label for="loops">Loops (10.000 to 1 million):</label> ';
 $form .= "<input type='number' value=".$loops." id='loops' name='loops' min='10000' max='1000000' step='1000' maxlength='7'> ";
 $form .= "<br><br>";
-$form .= "<input type='submit' value='Get Route'>";
+$form .= "<input type='submit' value='Get Route' class='button'>";
 $form .= "</form>";
 
 print $form;
@@ -336,3 +392,4 @@ print DisplayRouteWithDistances($get_min1['route']);
 //    }
 //}
 
+print "</body></html>";

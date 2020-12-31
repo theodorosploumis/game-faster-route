@@ -1,6 +1,7 @@
 <?php
 
 // distance in mm
+// manual measurement with Inkscape
 $distance = [
     1 => [
       2 => 34,
