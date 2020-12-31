@@ -31,4 +31,4 @@
 
 
 ## Licence
-[MIT](LICENSE)
+Copyright 2021 - Theodoros Ploumis, All rights reserved
