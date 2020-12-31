@@ -1,6 +1,6 @@
 # The Faster Route Game
 
-![](logo.svg)
+![](assets/logo.svg)
 
 ## About
 - A TSP board game.

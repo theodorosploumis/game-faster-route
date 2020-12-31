@@ -332,14 +332,14 @@ print "<body>";
 
 // Print header
 // print "<h1>The Faster Route Game</h1>";
-print "<img class='logo' src='logo.svg' alt='logo' />";
+print "<img class='assets/logo' src='logo.svg' alt='logo' />";
 print "<hr>";
 
 $about = "";
 
 // Print links
 print "<ul>";
-print "<li>Get Board <a href='board.png' target='_blank'>png</a>, <a href='board.svg' target='_blank'>svg</a></li>";
+print "<li>Get Board <a href='assets/board.png' target='_blank'>png</a>, <a href='assets/board.svg' target='_blank'>svg</a>, <a href='assets/board.pdf' target='_blank'>pdf</a></li>";
 print "<li><a href='https://github.com/theodorosploumis/game-faster-route/blob/master/README.md' target='_blank'>About/Rules</a></li>";
 print "</ul>";
 
