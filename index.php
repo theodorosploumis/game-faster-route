@@ -333,7 +333,7 @@ print "<body>";
 
 // Print header
 // print "<h1>The Faster Route Game</h1>";
-print "<a href="/"><img class='assets/logo' src='logo.svg' alt='logo' /></a>";
+print "<a href='/'><img class='assets' src='assets/logo.svg' alt='logo' /></a>";
 print "<hr>";
 
 $about = "";
