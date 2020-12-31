@@ -339,6 +339,12 @@ li {
 h3 span {
   font-weight: normal;
 }
+
+.copyright {
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+}
 ";
 print "</style>";
 print "<title>The Faster Route Game</title>";
@@ -413,5 +419,8 @@ print DisplayRouteWithDistances($get_min1['route']);
 //        }
 //    }
 //}
+
+print "<br><hr>";
+print "<div class='copyright'>Copyright 2021 Theodoros Ploumis - All rights reserved.</div>";
 
 print "</section></body></html>";
